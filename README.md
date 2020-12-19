@@ -1,2 +1,3 @@
 # Algorithm
-BOJ , Programmers 
+부족하지만<br>
+백준과 프로그래머스의 문제 풀이입니다.
